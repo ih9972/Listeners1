@@ -29,7 +29,7 @@
             android:layout_weight="3"
             android:gravity="center|center_horizontal|center_vertical"
             android:text="TextView"
-            android:textColor="#E84343"
+            android:textColor="#1E36D5"
             android:textSize="20sp" />
 
         <Space
@@ -44,7 +44,7 @@
             android:layout_weight="3"
             android:gravity="center|center_horizontal|center_vertical"
             android:text="TextView"
-            android:textColor="#1E36D5"
+            android:textColor="#E84343"
             android:textSize="20sp" />
 
         <Space
